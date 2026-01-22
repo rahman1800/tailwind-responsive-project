@@ -11,4 +11,4 @@ A responsive website built using HTML and Tailwind CSS.
 - Clean UI using Tailwind utilities
 
 ## Live Demo
-https://tailwind-responsive-project.vercel.app
+https://tailwind-responsive-project-two.vercel.app/
